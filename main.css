@@ -2,3 +2,17 @@ body{
   background: url(assets/freedom.jpg);
   background-size: cover;
 }
+h1{
+  text-align: center;
+  font-size: 3rem;
+  margin: rem auto;
+  padding: 2rem;
+  margin-top: 3rem;
+  font-family: sans-serif;
+  color: rgba(0,0,0,.8)
+}
+p{
+  text-align: center;
+  display: block;
+  font-size: 1rem;
+  }
